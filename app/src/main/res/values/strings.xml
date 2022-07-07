@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC-Project</string>
+    <string name="btn_Calcular">Calcular</string>
+    <string name="hilt_Altura">Sua altura ( ex:1.78cm )</string>
+    <string name="hilt_peso">Seu peso ( ex:85.5kg )</string>
+    <string name="title_imc">IMC</string>
+</resources>
